@@ -1,0 +1,64 @@
+.container-fluid{
+    background: cadetblue;
+}
+.header{
+    height: 50px;
+    background: cornflowerblue;
+}
+.header-nav{
+    height: 30px;
+    background: rgb(169, 194, 241);
+}
+.left, .right{
+    /* height: 550px; */
+    background: cornflowerblue;
+}
+.left-header{
+    height:70px;
+    background: rgb(169, 194, 241);
+}
+.left-nav{
+    height: 400px;
+    background: rgb(169, 194, 241);
+}
+.left-footer{
+    height:70px;
+    background: rgb(169, 194, 241);
+}
+.right-header{
+    height:70px;
+    background: rgb(169, 194, 241);   
+}
+.right-article{
+    height: 200px;
+    background: rgb(169, 194, 241);   
+}
+.right-article-head{
+    height: 35px;
+    background: rgb(232, 236, 243);   
+}
+.right-article-par{
+    height: 35px;
+    background: rgb(232, 236, 243);   
+}
+.right-article-footer{
+    height: 35px;
+    background: rgb(232, 236, 243);   
+}
+.right-article-par2{
+    height: 80px;
+    background: rgb(232, 236, 243);   
+}
+.right-article-aside{
+    height: 80px;
+    background: rgb(232, 236, 243);   
+}
+
+.footer{
+    height: 50px;
+    background: cornflowerblue;
+}
+.right-footer{
+    height:70px;
+    background: rgb(169, 194, 241);
+}
